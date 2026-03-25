@@ -1,10 +1,10 @@
 # Relatório da NOME DA ATIVIDADE
 
-**Disciplina:** 
-**Aluno(s):**
-**Turma:**
-**Professor:**
-**Data:**
+**Disciplina:PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA 
+**Aluno(s):João Victor Fernandes
+**Turma:ADS
+**Professor:Rafael Marconi
+**Data:25/03/2026
 
 ---
 
@@ -40,13 +40,13 @@ Informar as características do hardware e software utilizados na execução dos
 
 | Item                        | Descrição |
 | --------------------------- | --------- |
-| Processador                 |           |
-| Número de núcleos           |           |
-| Memória RAM                 |           |
-| Sistema Operacional         |           |
-| Linguagem utilizada         |           |
-| Biblioteca de paralelização |           |
-| Compilador / Versão         |           |
+| Processador                 |12th Gen Intel(R) Core(TM) i7-12700 12 Núcleo(s)|
+| Número de núcleos           |12 Núcleo(s)                                    |
+| Memória RAM                 |16,0 GB                                         |
+| Sistema Operacional         |Windows                                         |
+| Linguagem utilizada         |Python                                          |
+| Biblioteca de paralelização |Multiprocessing  (stdlib)                       |
+| Compilador / Versão         |Python                                          |
 
 ---
 
@@ -94,11 +94,11 @@ Preencha a tabela com os **tempos médios de execução** obtidos.
 
 | Nº Threads/Processos | Tempo de Execução (s) |
 | -------------------- | --------------------- |
-| 1                    |                       |
-| 2                    |                       |
-| 4                    |                       |
-| 8                    |                       |
-| 12                   |                       |
+| 1                    |   89.9118             |
+| 2                    |   44.2864             |
+| 4                    |   32.6888             |
+| 8                    |   27.7172             |
+| 12                   |   25.0590             |
 
 ---
 
